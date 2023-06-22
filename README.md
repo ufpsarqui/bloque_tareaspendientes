@@ -1,7 +1,8 @@
 
 # Plugin Moodle notificacion de tareas
 
-El Plugin de Notificación de Tareas Cercanas al Cierre es una extensión para la plataforma de aprendizaje en línea Moodle que tiene como objetivo mejorar la gestión de tareas y plazos. Este plugin proporciona alertas y notificaciones para informar a los usuarios cuando una tarea está a punto de cerrarse, permitiéndoles tomar medidas rápidas y evitar incumplimientos
+📅📨 El Plugin de Notificación de Tareas Cercanas al Cierre es una extensión para la plataforma de aprendizaje en línea Moodle que tiene como objetivo mejorar la gestión de tareas y plazos.
+⏰🚨 Este plugin proporciona alertas y notificaciones para informar a los usuarios cuando una tarea está a punto de cerrarse, permitiéndoles tomar medidas rápidas y evitar incumplimientos.
 
 
 ## Pasos para la instalacion
