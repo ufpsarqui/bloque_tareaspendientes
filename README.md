@@ -58,6 +58,9 @@
 ARQUITECTURA: MOODLE
 ![image](https://github.com/ufpsarqui/bloque_tareaspendientes/assets/74570702/82989ce2-2bf0-4704-b920-284694b67ac6)
 
+![image](https://github.com/ufpsarqui/bloque_tareaspendientes/assets/74570702/260787ad-6b93-4da0-bf5e-89276cc74bf1)
+
+
 
    
  
