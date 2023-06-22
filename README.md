@@ -62,6 +62,8 @@ Lo último que debes preparar es la base de datos MySQL para tu sitio web Moodle
 Ve a Administrador de archivos -> public_html y busca config-dist.php. Crea una copia del archivo y edita la información de la base de datos. ¡Asegúrate de incluir la cadena de números delante del nombre de la base de datos y el nombre de usuario!
 Información de la base de datos de Moodle en config-dist.php
 ¡Eso es todo para la etapa de preparación! Ahora, pongámonos manos a la obra.
+![image](https://github.com/ufpsarqui/bloque_tareaspendientes/assets/74570702/82989ce2-2bf0-4704-b920-284694b67ac6)
+
 
 
    
