@@ -9,7 +9,7 @@ El Plugin de Notificación de Tareas Cercanas al Cierre es una extensión para l
  - Descarga el archivo ZIP del plugin desde el repositorio de GitHub. 
 - Accede a tu instancia de Moodle como administrador.
 - Navega hasta la página de administración del sitio.
-- En la sección "Plugins", haz clic en "Instalar complementos".
+- En la sección "Extensiones", haz clic en "Instalar complementos".
 - Selecciona la opción "Subir un complemento ZIP"
 - Haz clic en el botón "Elegir archivo".
 - Busca y selecciona el archivo ZIP del plugin que descargaste anteriormente.
