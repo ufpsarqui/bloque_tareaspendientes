@@ -36,4 +36,10 @@ El Plugin de Notificación de Tareas Cercanas al Cierre es una extensión para l
 ![image](https://github.com/ufpsarqui/bloque_tareaspendientes/assets/74570702/d6762978-b00d-4822-abc5-dfb89da6af9b)
 
 
+ - es importante tener en cuenta la base de datos creada
+ - el Dominio
+ - Ejecucion de Datos Que son los Archivos.
+    -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+
+
 
