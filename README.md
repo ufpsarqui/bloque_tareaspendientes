@@ -61,9 +61,9 @@ Luego, sube el archivo a tu sitio web utilizando el Administrador de archivos en
 Lo último que debes preparar es la base de datos MySQL para tu sitio web Moodle. Para crear una en el hPanel, solo necesitas acceder a la sección Bases de datos MySQL. Después de completar el nombre de la base de datos, el nombre de usuario y la contraseña, copia la información pues la necesitarás y haz clic en Crear.
 Ve a Administrador de archivos -> public_html y busca config-dist.php. Crea una copia del archivo y edita la información de la base de datos. ¡Asegúrate de incluir la cadena de números delante del nombre de la base de datos y el nombre de usuario!
 Información de la base de datos de Moodle en config-dist.php
-¡Eso es todo para la etapa de preparación! Ahora, pongámonos manos a la obra.
-![image](https://github.com/ufpsarqui/bloque_tareaspendientes/assets/74570702/82989ce2-2bf0-4704-b920-284694b67ac6)
 
+ARQUITECTURA: MOODLE
+![image](https://github.com/ufpsarqui/bloque_tareaspendientes/assets/74570702/82989ce2-2bf0-4704-b920-284694b67ac6)
 
 
    
