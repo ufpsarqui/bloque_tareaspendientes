@@ -21,7 +21,7 @@ El Plugin de Notificación de Tareas Cercanas al Cierre es una extensión para l
 
 ## Pasos Para Instalar Moodle en Hostinger
 
--Accede a tu panel de control de Hostinger y crea una nueva base de datos MySQL. Anota la información de acceso de la base de datos, incluyendo el -nombre de usuario de la base de datos, la contraseña y el nombre de la base de datos.
+ - Accede a tu panel de control de Hostinger y crea una nueva base de datos MySQL. Anota la información de acceso de la base de datos, incluyendo el -nombre de usuario de la base de datos, la contraseña y el nombre de la base de datos.
 -Descarga la última versión estable de Moodle desde el sitio web oficial de Moodle (https://download.moodle.org/). 
 Descomprime el archivo ZIP en tu ordenador.
 -Conecta a tu cuenta de Hostinger a través de FTP o SFTP utilizando un software de FTP como FileZilla.
