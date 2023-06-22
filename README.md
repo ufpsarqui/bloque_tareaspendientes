@@ -19,6 +19,10 @@
 - Una vez que la instalación se haya completado, verás una notificación indicando que el plugin se instaló correctamente.
 - Regresa a la página de inicio de Moodle y verifica que el plugin esté disponible y activo.
 - Si es necesario, realiza la configuración adicional del plugin según las instrucciones proporcionadas en la documentación del plugin.
+- ![image](https://github.com/ufpsarqui/bloque_tareaspendientes/assets/74570702/715ffc77-a4f0-4679-8f6b-b973fe85ba4b)
+- ![image](https://github.com/ufpsarqui/bloque_tareaspendientes/assets/74570702/75f5917a-6682-4085-a844-f3bc63808201)
+
+
 
 ## Pasos Para Instalar Moodle en Hostinger
 
