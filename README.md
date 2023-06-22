@@ -48,6 +48,21 @@ El Plugin de Notificación de Tareas Cercanas al Cierre es una extensión para l
     - 3
      ![image](https://github.com/ufpsarqui/bloque_tareaspendientes/assets/74570702/f4f64c84-f747-4bec-8e1f-05cd2a8b2104)
 
+¿Cómo instalar Moodle manualmente?
+Si tu proveedor de alojamiento web no tiene un instalador automático para Moodle, puedes seguir esta guía paso a paso sobre cómo instalarlo manualmente.
+
+Preparando la instalación de Moodle
+Antes de poder continuar con el proceso de instalación manual, tenemos que ocuparnos de algunas cosas:
+
+En primer lugar, debes descargar el paquete de instalación de Moodle desde su sitio web oficial.
+Luego, sube el archivo a tu sitio web utilizando el Administrador de archivos en tu panel de control o un cliente FTP como FileZilla.
+¡Importante! Ten en cuenta que la ubicación del archivo cargado es importante. Por ejemplo, si deseas instalar Moodle en tu nombre de dominio principal (www.tudominio.com), deberás cargar los archivos directamente en tu carpeta public_html.
+
+Lo último que debes preparar es la base de datos MySQL para tu sitio web Moodle. Para crear una en el hPanel, solo necesitas acceder a la sección Bases de datos MySQL. Después de completar el nombre de la base de datos, el nombre de usuario y la contraseña, copia la información pues la necesitarás y haz clic en Crear.
+Ve a Administrador de archivos -> public_html y busca config-dist.php. Crea una copia del archivo y edita la información de la base de datos. ¡Asegúrate de incluir la cadena de números delante del nombre de la base de datos y el nombre de usuario!
+Información de la base de datos de Moodle en config-dist.php
+¡Eso es todo para la etapa de preparación! Ahora, pongámonos manos a la obra.
+
 
    
  
